@@ -1,5 +1,5 @@
 ---
-permalink: /others/
+permalink: /misc/
 title: "Misc"
 author_profile: true
 redirect_from: 
@@ -7,7 +7,7 @@ redirect_from:
   - /Misc.html
 ---
 
-## Always Exploring
+<!-- ## Always Exploring
 
 ### Japan
 
@@ -26,5 +26,5 @@ redirect_from:
 
 - Messi and I were watching one football game together in Hong Kong
 ![Messi-Hong Kong](http://cheungsiupaang.github.io/images/2024-hk-messi.png)
-<!-- - Me on Sunwui Road, Hong Kong
+- Me on Sunwui Road, Hong Kong
 ![Sanwui-Hong Kong](http://cheungsiupaang.github.io/images/2024-hk-sanwuiroad.png) -->
