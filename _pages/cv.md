@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My detailed Curriculum Vitae can be downloaded in [CV](/files/ZZP-CV.pdf).
+My detailed Curriculum Vitae can be downloaded in [CV](/files/ZZP_CV.pdf).
 
 ## Education
 
@@ -21,10 +21,16 @@ My detailed Curriculum Vitae can be downloaded in [CV](/files/ZZP-CV.pdf).
 
 ### Languages
 
-* Chinese(Cantonese, Madarin)-native, English-fluent, Japanese-basic
+* Chinese (Cantonese, Mandarin)-native, English-fluent, Japanese-basic
 
 ### Software
 
+* C++, Python, MATLAB
 * [ROS](https://wiki.ros.org/)
+
+### Hardware
+
 * [PX4](https://px4.io/)
-* MATLAB/Simulink, C++, Python
+* [Robotis Dynamixel](https://emanual.robotis.com/)
+* [Intel Realsense](https://www.intelrealsense.com/depth-camera-d435i/)
+* [Livox](https://www.livoxtech.com/cn/mid-360)
