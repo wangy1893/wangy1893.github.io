@@ -32,5 +32,4 @@ My detailed Curriculum Vitae can be downloaded in [CV](/files/ZZP_CV.pdf).
 
 * [PX4](https://px4.io/)
 * [Robotis Dynamixel](https://emanual.robotis.com/)
-* [Intel Realsense](https://www.intelrealsense.com/depth-camera-d435i/)
-* [Livox](https://www.livoxtech.com/cn/mid-360)
+* [Intel Realsense](https://www.intelrealsense.com/depth-camera-d435i/), [Livox](https://www.livoxtech.com/cn/mid-360)

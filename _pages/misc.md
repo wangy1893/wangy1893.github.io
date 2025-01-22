@@ -7,6 +7,14 @@ redirect_from:
   - /Misc.html
 ---
 
+### Mentorship
+
+- Wang Shunxuan
+
+### Other Experience
+
+- Leader of Cantonese Club, Nankai University, 2019-2020
+
 <!-- ## Always Exploring
 
 ### Japan
