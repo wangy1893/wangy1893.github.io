@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhang Zhaopeng / Cheung Siupaang"
+title                    : "Cheung Siupaang / Zhang Zhaopeng"
 title_separator          : "-"
 name                     : &name "Cheung Siupaang"
 description              : &description "PhD Candidate of Nankai University"
