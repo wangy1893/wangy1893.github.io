@@ -22,7 +22,8 @@ repository               : "cheungsiupaang/cheungsiupaang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zzp.png"
+  # avatar           : "zzp.png"
+  avatar           : "2025-zzp.jpg"
   name             : "张兆鹏"
   pronouns         : # example: "she/her" 
   bio              : "PhD Candidate in Robotics"
