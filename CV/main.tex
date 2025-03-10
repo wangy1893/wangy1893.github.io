@@ -1,0 +1,264 @@
+\documentclass[10pt, letterpaper]{article}
+
+\usepackage[ignoreheadfoot, top=1cm, bottom=1cm, left=0.5cm, right=0.5cm, footskip=1cm]{geometry}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{primaryColor}{RGB}{0, 79, 144}
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+\usepackage{amsmath}
+\usepackage[
+  pdftitle={Zhang Zhaopeng's CV},
+  pdfauthor={Zhang Zhaopeng},
+  pdfcreator={LaTeX with RenderCV},
+  colorlinks=true,
+  urlcolor=primaryColor
+]{hyperref} % for links, metadata and bookmarks
+\usepackage[pscoord]{eso-pic} % for floating text on the page
+\usepackage{calc} % for calculating lengths
+\usepackage{bookmark}
+\usepackage{lastpage}
+\usepackage{changepage}
+\usepackage{paracol}
+\usepackage{ifthen}
+\usepackage{needspace} 
+\usepackage{iftex}
+
+\ifPDFTeX
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+  \usepackage[utf8]{inputenc}
+  \usepackage{lmodern}
+\fi
+
+\AtBeginEnvironment{adjustwidth}{\partopsep0pt}
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\columnsep}{0cm}
+\makeatletter
+\let\ps@customFooterStyle\ps@plain
+% \patchcmd{\ps@customFooterStyle}{\thepage}{
+    % \color{gray}\textit{\small Zhang Zhaopeng - Page \thepage{} of \pageref*{LastPage}}
+% }{}{} % replace number by desired string
+\makeatother
+\pagestyle{customFooterStyle}
+
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+
+\titlespacing{\section}{% left space:
+  -1pt}
+  {% top space:
+    0.3 cm}
+  {% bottom space:
+    0.2 cm
+  }
+
+\renewcommand\labelitemi{$\circ$} % custom bullet points
+\newenvironment{highlights}{
+  \begin{itemize}[
+    topsep=0.10 cm,
+    parsep=0.10 cm,
+    partopsep=0pt,
+    itemsep=0pt,
+    leftmargin=0.4 cm + 10pt
+  ]
+}{
+    \end{itemize}
+} % new environment for highlights
+
+\newenvironment{highlightsforbulletentries}{
+    \begin{itemize}[
+        topsep=0.10 cm,
+        parsep=0.10 cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=10pt
+    ]
+}{
+    \end{itemize}
+} % new environment for highlights for bullet entries
+
+
+\newenvironment{onecolentry}{
+    \begin{adjustwidth}{
+        0.2 cm
+    }{
+        0.2 cm
+    }
+}{
+    \end{adjustwidth}
+} % new environment for one column entries
+
+\newenvironment{twocolentry}[2][]{
+    \onecolentry
+    \def\secondColumn{#2}
+    \setcolumnwidth{\fill, 4.5 cm}
+    \begin{paracol}{2}
+}{
+    \switchcolumn \raggedleft \secondColumn
+    \end{paracol}
+    \endonecolentry
+} % new environment for two column entries
+
+\newenvironment{header}{
+    \setlength{\topsep}{0pt}\par\kern\topsep\centering\linespread{1.5}
+}{
+    \par\kern\topsep
+} % new environment for the header
+
+\newcommand{\placelastupdatedtext}{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
+  \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
+    \put(
+        \LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},
+        \LenToUnit{\paperheight-1.0 cm}
+    ){\vtop{{\null}\makebox[0pt][c]{
+        \small\color{gray}\textit{Last updated in March 2025}\hspace{\widthof{Last updated in March 2025}}
+    }}}%
+  }%
+}%
+
+% save the original href command in a new command:
+\let\hrefWithoutArrow\href
+
+% new command for external links:
+\renewcommand{\href}[2]{\hrefWithoutArrow{#1}{\ifthenelse{\equal{#2}{}}{ }{#2 }\raisebox{.15ex}{\footnotesize \faExternalLink*}}}
+
+
+\begin{document}
+\newcommand{\AND}{\unskip\cleaders\copy\ANDbox\hskip\wd\ANDbox\ignorespaces}
+\newsavebox\ANDbox\sbox\ANDbox{}
+
+\placelastupdatedtext%
+\begin{header}
+  \textbf{\fontsize{24 pt}{24 pt}\selectfont Zhang Zhaopeng}
+  \vspace{0.3 cm}
+
+  \normalsize
+  \mbox{{\color{black}\footnotesize\faMapMarker*}\hspace*{0.13cm}Tianjin City, China}%
+  \kern0.25cm
+  \AND%
+  \kern0.25cm
+  \mbox{\hrefWithoutArrow{mailto:zhangzp.nku@gmail.com}{\color{black}{\footnotesize\faEnvelope[regular]}\hspace*{0.13cm}zhangzp.nku@gmail.com}}%
+  \kern0.25cm
+  \AND%
+  \kern0.25 cm
+  \mbox{\hrefWithoutArrow{tel:+86-13630482195}{\color{black}{\footnotesize\faPhone*}\hspace*{0.13cm}1363 048 2195}}%
+  \kern0.25cm
+  \AND%
+  \kern0.25cm
+  \mbox{\hrefWithoutArrow{https://cheungsiupaang.github.io/}{\color{black}{\footnotesize\faLink}\hspace*{0.13cm}cheungsiupaang.github.io}}%
+  \kern0.25cm
+  \AND%
+  \kern0.25cm
+  \mbox{\hrefWithoutArrow{https://github.com/cheungsiupaang}{\color{black}{\footnotesize\faGithub}\hspace*{0.13cm}cheungsiupaang}}%
+\end{header}
+
+\vspace{0.3cm - 0.3cm}
+
+\section{Education}
+  \begin{twocolentry}{\textit{Sept 2017 - June 2021}}
+    \textbf{Nankai University}
+
+    \text{B.S.} \textit{in Automation}
+  \end{twocolentry}
+
+  \vspace{0.1cm}
+  
+  \begin{onecolentry}
+    \begin{highlights}
+      \item \textbf{Coursework:} C++ Programming, Introduction to Robotics, Automatic Control Theory
+    \end{highlights}
+  \end{onecolentry}
+  
+  \vspace{0.1cm}
+
+  \begin{twocolentry}{\textit{Sept 2021 - June 2023}}
+    \textbf{Nankai University}
+
+    \text{M.Phi.} \textit{in Control Science and Engineering}
+  \end{twocolentry}
+  
+  \vspace{0.1cm}
+  
+  \begin{onecolentry}
+    \begin{highlights}
+      \item \textbf{Research:} Visual servoing control for aerial manipulators
+    \end{highlights}
+  \end{onecolentry}
+
+  \vspace{0.1cm}
+
+  \begin{twocolentry}{\textit{Sept 2023 - now}}
+    \textbf{Nankai University}
+
+    \text{Ph.D. Candidate} \textit{in Control Science and Engineering}
+  \end{twocolentry}
+  
+  \vspace{0.1cm}
+  
+  \begin{onecolentry}
+    \begin{highlights}
+      \item \textbf{Research:} Motion planning for aerial manipulators
+    \end{highlights}
+  \end{onecolentry}
+
+\section{Publications}
+\begin{twocolentry}{Mar 2025}
+  \textbf{An End-Effector-Oriented Coupled Motion Planning Method for Aerial Manipulators in Constrained Environments}
+  \vspace{0.10 cm}
+
+  \textit{IEEE Transactions on Mechatronics, accept, 2025}
+  \vspace{0.10 cm}
+
+  \mbox{\textbf{Zhang Zhaopeng}}, \mbox{Yu Hai}, \mbox{Chai Yi}, \mbox{Yang Zhichao}, \mbox{Liang Xiao}, \mbox{Fang Yongchun}, \mbox{Han Jianda}
+\end{twocolentry}
+\vspace{0.3 cm}
+
+\begin{twocolentry}{May 2023}
+  \textbf{Visual servoing control for aerial manipulator via hierarchical motion decomposition}
+  \vspace{0.10 cm}
+
+  \textit{Control Theory and Applications, in Chinese, 41(5), 2024}
+  \vspace{0.10 cm}
+
+  \mbox{\textbf{Zhang Zhaopeng}}, \mbox{He Wei}, \mbox{Liang Xiao}, \mbox{Han Jianda}, \mbox{Fang Yongchun}
+\end{twocolentry}
+\vspace{0.3 cm}
+
+\begin{twocolentry}{Oct 2021}
+  \textbf{An anti-swing controller for aerial transportation system with flexible suspending rope}
+  \vspace{0.10 cm}
+
+  \textit{Asian Conference on Artificial Intelligence Technology (ACAIT), 2021}
+  \vspace{0.10 cm}
+
+  \mbox{\textbf{Zhang Zhaopeng}}, \mbox{Liang Xiao}, \mbox{Zhang Zhuang}, \mbox{Han Jianda}
+\end{twocolentry}
+
+\vspace{0.10 cm}
+
+% \section{Projects}
+
+\section{Coding Skills}
+
+\begin{onecolentry}
+  \textbf{Languages:} C++, Python, MATLAB, ROS
+\end{onecolentry}
+
+\vspace{0.2 cm}
+
+\section{Languages}
+
+\begin{onecolentry}
+  \textbf{Chinese:} Native, including \textit{Mandarin} and \textit{Cantonese}
+
+  \textbf{English:} Fluent
+  
+  \textbf{Japanese:} Basic
+\end{onecolentry}
+
+\end{document}
