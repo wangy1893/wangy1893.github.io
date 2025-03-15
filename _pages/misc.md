@@ -15,9 +15,9 @@ redirect_from:
 
 - Leader of Cantonese Club, Nankai University, 2019-2020
 
-- My aerial manipulator was on the Tianjin TV news.
+- My aerial manipulator was on the Tianjin news. The original report is in [link](http://news.enorth.com.cn/system/2025/03/15/058176991.shtml).
 
-![tianjin-news](http://cheungsiupaang.github.io/videos/tj-news.mp4)
+![tianjin-news](http://cheungsiupaang.github.io/videos/tianjin-news.gif)
 
 <!-- ## Always Exploring
 
