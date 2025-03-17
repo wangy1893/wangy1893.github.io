@@ -19,6 +19,8 @@ redirect_from:
 
 ![tianjin-news](http://cheungsiupaang.github.io/videos/tianjin-news.gif)
 
+<img src="http://cheungsiupaang.github.io/videos/tianjin-news.gif" alt="tianjin-news" width="600" height="400">
+
 <!-- ## Always Exploring
 
 ### Japan
