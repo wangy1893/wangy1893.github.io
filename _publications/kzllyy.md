@@ -1,13 +1,13 @@
 ---
-title: "Visual servoing control for aerial manipulator via hierarchical motion decomposition"
+title: "Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-kzllyy
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-15
-venue: 'Control Theory and Applications, in Chinese, 41(5)' # 'Journal 1'
+venue: 'IEEE Transactions on Fuzzy Systems, vol. 33, no. 2, pp. 621-630, Feb. 2025'
 # slidesurl: 'http://cheungsiupaang.github.io/files/kzllyy.pdf'
 paperurl: 'http://cheungsiupaang.github.io/files/kzllyy.pdf'
-citation: '<b>Zhaopeng Zhang</b>, Wei He, Xiao Liang*, Jianda Han, and Yongchun Fang'
+citation: '<b>Hai Yu</b>, Yi Chai, Zhichao Yang, Jianda Han, Yongchun Fang, Xiao Liang*'
 ---
 Propose a hierarchical motion decomposition based visual servoing control scheme for aerial manipulators.
