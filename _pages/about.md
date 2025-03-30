@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Cheung Siupaang is my name in Cantonese, and Zhang Zhaopeng is my name in Mandarin Chinese.
 
-I'm a Ph.D. candidate in College of Artificial Intelligence, Nankai University, supervised by [Prof. Han Jianda](https://ai.nankai.edu.cn/info/1032/2784.htm) and [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
+I'm a Ph.D. candidate from FAIR Lab (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
 
-My research interest includes robotics, aerial manipulators, and motion planning.
+My research interests include robotics, aerial transportation systems, motion control, and planning.
 
 My detailed Curriculum Vitae can be downloaded in [CV](/CV/main.pdf).
