@@ -13,19 +13,19 @@ My detailed Curriculum Vitae can be downloaded in [CV](/files/ZZP_CV.pdf).
 
 ## Education
 
-* Ph.D., Control Science and Engineer, Nankai University, 2023-now
-* M.Eng., Control Science and Engineer, Nankai University, 2021-2023
-* B.Eng., Automation, Nankai University, 2017-2021
+* Ph.D., Control Science and Engineering, Nankai University, 2022-now
+* M.Eng., Control Science and Engineering, Nankai University, 2020-2022
+* B.Eng., Automation, Jilin University, 2016-2020
 
 ## Skills
 
 ### Languages
 
-* Chinese (Cantonese, Mandarin)-native, English-fluent, Japanese-basic
+* Mandarin Chinese-native, English-fluent
 
 ### Software
 
-* C++, Python, MATLAB
+* Python, MATLAB
 * [ROS](https://wiki.ros.org/)
 
 ### Hardware
