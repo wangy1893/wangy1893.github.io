@@ -2,7 +2,7 @@
 title: "Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-kzllyy
+permalink: /publication/2024-TFS
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-15
 venue: 'IEEE Transactions on Fuzzy Systems, vol. 33, no. 2, pp. 621-630, Feb. 2025'
