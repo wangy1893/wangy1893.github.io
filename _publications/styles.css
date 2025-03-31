@@ -31,9 +31,8 @@ body, html {
 
 /* Video */
 .paper-video {
-    width: 100%;
-    max-width: 300px; /* Adjust max width as needed */
-    height: auto;
+    height: 100%;
+    width: auto;
     border-radius: 8px; /* Optional: add rounded corners */
 }
 
