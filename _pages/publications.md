@@ -14,6 +14,16 @@ You can also find my articles on <u><a href="https://scholar.google.com.hk/citat
 
 <head>
   <link rel="stylesheet" href="styles.css">
+  <style>
+    a {
+      text-decoration: none; /* Removes underline */
+      color: blue; /* Makes the link blue */
+    }
+
+    a:hover {
+      text-decoration: underline; /* Optional: adds underline on hover */
+    }
+  </style>
 </head>
 
 ## Journal Articles
