@@ -4,4 +4,4 @@
 ## membership
 **[Zhaopeng Zhang](https://cheungsiupaang.github.io/)**
 
-**[Zhaopeng Zhang](https://lbbnk.github.io/)**
+**[Bingbing Liu](https://lbbnk.github.io/)**
