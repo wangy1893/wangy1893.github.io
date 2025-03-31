@@ -56,6 +56,17 @@ body, html {
     margin-bottom: 0.2rem;
 }
 
+/* 取消链接下划线并设置为蓝色 */
+a {
+    text-decoration: none; /* 去除下划线 */
+    color: blue; /* 设置链接颜色为蓝色 */
+}
+
+/* 可选：鼠标悬停时显示下划线 */
+a:hover {
+    text-decoration: underline; /* 鼠标悬停时显示下划线 */
+}
+
 /* Responsive design for smaller screens (mobile devices) */
 @media ((max-width: 768px) and (orientation: portrait)) {
     .media-container {
