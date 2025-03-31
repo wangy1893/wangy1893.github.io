@@ -21,23 +21,6 @@ body, html {
     border-bottom: 1px solid #ddd; /* Light gray border */
 }
 
-/* Left side: Video */
-.video-container {
-    flex: 1 1 30%; 
-    padding-right: 3%;
-    text-align: center;
-    margin-bottom: 1rem;
-}
-
-/* Video */
-.paper-video {
-    width: 100%;
-    max-width: 300px; /* Adjust max width as needed */
-    height: auto;
-    border-radius: 8px; /* Optional: add rounded corners */
-}
-
-
 /* Left side: GIF */
 .gif-container {
     flex: 1 1 30%; 
@@ -77,11 +60,6 @@ body, html {
 
 /* Responsive design for smaller screens (mobile devices) */
 @media ((max-width: 768px) and (orientation: portrait)) {
-    .video-container {
-        flex: 1 1 100%;  /* Let the video take up the full width on small screens */
-        padding-right: 0;  /* Remove right padding on mobile */
-    }
-    
     .gif-container {
         flex: 1 1 100%;  /* Let the GIF take up the full width on small screens */
         padding-right: 0;  /* Remove right padding on mobile */
