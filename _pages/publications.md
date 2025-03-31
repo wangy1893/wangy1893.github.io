@@ -35,15 +35,6 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   </div>
 </div>
 
-<script>
-  // 等待页面加载完成后执行
-  document.addEventListener("DOMContentLoaded", function() {
-    var video = document.getElementById("paper-video");
-    if (video) {
-      video.playbackRate = 5.0; // 设置播放速度为2倍速
-    }
-  });
-</script>
 
 <div class="paper-container">
   <!-- Left side: GIF -->
