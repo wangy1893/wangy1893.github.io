@@ -106,3 +106,18 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
   </div>
 </div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Enhanced-Coupling Based Nonlinear Control for Aerial Transportation Systems with Variable-Length Cable</p>
+    <p class="authors"> <b>Hai Yu#</b>, Shizhen Wu, Xiao Liang*, Yongchun Fang, Jianda Han </p>
+    <p class="journal"> <b>International Conference on Guidance, Navigation and Control (ICGNC)</b>, 2022 </p>
+    <p class="url"> [<a href="https://link.springer.com/chapter/10.1007/978-981-19-6613-2_310">Paper Page</a>] </p>
+  </div>
+</div>
+
