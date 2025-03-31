@@ -35,6 +35,22 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   </div>
 </div>
 
+<div class="paper-container">
+  <!-- Left side: Video -->
+  <div class="video-container">
+    <video autoplay loop muted class="paper-video">
+      <source src="23-TIE-2613-video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Fault-Tolerant Control for Multirotor Aerial Transportation Systems With Blade Damage</p>
+    <p class="authors"> <b>Hai Yu#</b>, Shizhen Wu, Wei He, Xiao Liang*, Jianda Han, Yongchun Fang </p>
+    <p class="journal"> <b>IEEE Transactions on Industrial Electronics</b>, vol. 71, no. 10, pp. 12718-12731, 2024 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10401260">Paper Page</a>] </p>
+  </div>
+</div>
 
 <div class="paper-container">
   <!-- Left side: GIF -->
