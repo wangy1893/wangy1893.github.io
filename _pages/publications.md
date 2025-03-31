@@ -84,5 +84,37 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   </div>
 </div>
 
+<div class="paper-container">
+  <!-- Left side: GIF -->
+   <div class="video-container">
+    <video autoplay loop muted class="paper-video">
+      <source src="TII-23-5077-video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Collaborative Control for Aerial Transportation of Cargo With Dual Quadrotors</p>
+    <p class="authors"> Zhuang Zhang#, <b>Hai Yu#</b>, Huiying Ye, Jianda Han, Yongchun Fang, Xiao Liang* </p>
+    <p class="journal"> <b>IEEE Transactions on Industrial Informatics</b>, vol. 21, no. 1, pp. 752-761, 2025 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10704026">Paper Page</a>] </p>
+  </div>
+</div>
+
+
 
 ## Conference Proceedings
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="2024-TFS-diagram.png" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect</p>
+    <p class="authors"> <b>Hai Yu#</b>, Yi Chai, Zhichao Yang, Jianda Han, Yongchun Fang, Xiao Liang* </p>
+    <p class="journal"> <b>IEEE Transactions on Fuzzy Systems</b>, vol. 33, no. 2, pp. 621-630, 2025 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
+  </div>
+</div>
