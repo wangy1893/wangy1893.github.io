@@ -110,7 +110,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-gif">
+    <img src="2024-ICGNC-pic.png" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
