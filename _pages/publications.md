@@ -19,6 +19,23 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 ## Journal Articles
 
 <div class="paper-container">
+  <!-- Left side: Video -->
+  <div class="video-container">
+    <video autoplay loop muted class="paper-video">
+      <source src="TASE-2023-2664-video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable</p>
+    <p class="authors"> <b>Hai Yu#</b>, Zhaopeng Zhang, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang* </p>
+    <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 5955-5965 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10620439">Paper Page</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
     <img src="TASE-2023-2664-video.mp4" alt="GIF Description" class="paper-gif">
