@@ -13,8 +13,8 @@ redirect_from:
 
 - League Branch Secretary of the Aeromodelling Association, Nankai University, 2022-2023
 
-- My cable-suspended aerial transportation system was on the Tianjin news. The original report is in [link](http://news.enorth.com.cn/system/2025/03/15/058176991.shtml).
+- My cable-suspended aerial transportation system was on the Tianjin news. The original report is in [link](http://news.enorth.com.cn/system/2024/12/28/057945768.shtml).
 
 <div style="margin-left: 40px;">
-  <img src="http://cheungsiupaang.github.io/videos/tianjin-news.gif" alt="tianjin-news" width="600" height="400">
+  <img src="tianjinnews.png" alt="tianjin-news" width="600" height="400">
 </div>
