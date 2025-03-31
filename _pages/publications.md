@@ -20,7 +20,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <div class="paper-container">
   <!-- Left side: GIF -->
-  <div class="video-container">
+  <div class="gif-container">
     <video autoplay loop muted class="paper-video">
       <source src="TASE-2023-2664-video.mp4" type="video/mp4">
     </video>
