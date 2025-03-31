@@ -20,11 +20,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <div class="paper-container">
   <!-- Left side: Video -->
-  <div class="video-container">
-    <video autoplay loop muted class="paper-video">
-      <source src="TASE-2023-2664-video.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <div class="gif-container">
+    <img src="TASE-2023-2664-video.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -37,11 +34,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <div class="paper-container">
   <!-- Left side: Video -->
-  <div class="video-container">
-    <video autoplay loop muted class="paper-video">
-      <source src="23-TIE-2613-video.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <div class="gif-container">
+    <img src="23-TIE-2613-video.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -54,11 +48,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <div class="paper-container">
   <!-- Left side: GIF -->
-   <div class="video-container">
-    <video autoplay loop muted class="paper-video">
-      <source src="TII-22-2015-video.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <div class="gif-container">
+    <img src="TII-22-2015-video.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
@@ -86,11 +77,8 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <div class="paper-container">
   <!-- Left side: GIF -->
-   <div class="video-container">
-    <video autoplay loop muted class="paper-video">
-      <source src="TII-23-5077-video.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <div class="gif-container">
+    <img src="TII-23-5077-video.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
