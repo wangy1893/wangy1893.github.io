@@ -21,9 +21,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <video autoplay loop muted class="paper-video">
-      <source src="TASE-2023-2664-video.mp4" type="video/mp4">
-    </video>
+    <img src="TASE-2023-2664-video.mp4" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
