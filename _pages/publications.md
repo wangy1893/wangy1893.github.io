@@ -38,15 +38,18 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 <div class="paper-container">
   <!-- Left side: GIF -->
-  <div class="gif-container">
-    <img src="TASE-2023-2664-video.mp4" alt="GIF Description" class="paper-gif">
+   <div class="video-container">
+    <video autoplay loop muted class="paper-video">
+      <source src="TII-22-2015-video.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
-    <p class="paper-title">Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, Zhaopeng Zhang, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang* </p>
-    <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 5955-5965 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10620439">Paper Page</a>] </p>
+    <p class="paper-title">Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform</p>
+    <p class="authors"> <b>Hai Yu#</b>, Xiao Liang*, Jianda Han, Yongchun Fang </p>
+    <p class="journal"> <b>IEEE Transactions on Industrial Informatics</b>, vol. 20, no. 1, pp. 23-37, 2024 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10068260">Paper Page</a>] </p>
   </div>
 </div>
 
