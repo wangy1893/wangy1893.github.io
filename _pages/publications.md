@@ -108,13 +108,13 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="2024-TFS-diagram.png" alt="GIF Description" class="paper-gif">
+    <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
   <div class="info-container">
-    <p class="paper-title">Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect</p>
-    <p class="authors"> <b>Hai Yu#</b>, Yi Chai, Zhichao Yang, Jianda Han, Yongchun Fang, Xiao Liang* </p>
-    <p class="journal"> <b>IEEE Transactions on Fuzzy Systems</b>, vol. 33, no. 2, pp. 621-630, 2025 </p>
+    <p class="paper-title">Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable</p>
+    <p class="authors"> <b>Hai Yu#</b>, Yang Wang, Bingbing Liu, Jianda Han, Yongchun Fang, Xiao Liang* </p>
+    <p class="journal"> <b>IEEE International Conference on Real-time Computing and Robotics (RCAR)</b>, 2024 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
   </div>
 </div>
