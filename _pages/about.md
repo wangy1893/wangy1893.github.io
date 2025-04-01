@@ -21,7 +21,7 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 ## 🎓 Education
 
-<table>
+<table style="border: none;">
   <tr>
     <td style="vertical-align:top; width: 70%; font-size: 16px;"> <!-- 增加字体大小 -->
       <strong>College of Artificial Intelligence, Nankai University</strong><br>
