@@ -96,7 +96,7 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
   </div>
   <div class="info-container">
     <p class="paper-title">Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, Yang Wang, Bingbing Liu, Jianda Han, Yongchun Fang, Xiao Liang* </p>
+    <p class="authors"> <b>Hai Yu#</b>, Yang Wang, <a href="https://lbbnk.github.io/">Bingbing Liu</a>, Jianda Han, Yongchun Fang, Xiao Liang* </p>
     <p class="journal"> <b>IEEE International Conference on Real-time Computing and Robotics (RCAR)</b>, 2024 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
   </div>
