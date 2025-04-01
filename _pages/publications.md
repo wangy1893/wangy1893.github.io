@@ -17,7 +17,7 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
   <style>
     a {
       text-decoration: none; /* Removes underline */
-      color: blue; /* Makes the link blue */
+      color: #66b3ff; /* Makes the link blue */
     }
 
     a:hover {
