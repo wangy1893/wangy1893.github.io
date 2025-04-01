@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" height="8">
+  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" height="20">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="8">
+  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="20">
 </p>
 
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
@@ -23,17 +23,28 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 ## 🎓 Education
 
-- **College of Artificial Intelligence, Nankai University**  
-  *Integrated Master's and Ph.D. Program* in Control Science & Engineering  
-  *Since Sep. 2020*
-
-- **College of Communication Engineering, Jilin University**  
-  *Bachelor in Automation*, Rank: 5<sup>th</sup>/149  
-  *Sep. 2016 – Jun. 2020*
-
-<p align="center">
-  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="8">
-</p>
+<table>
+  <tr>
+    <td style="vertical-align:top;">
+      <strong>College of Artificial Intelligence, Nankai University</strong><br>
+      Integrated Master’s and Ph.D. Program in Control Science & Engineering<br>
+      Sep. 2020 – Present
+    </td>
+    <td style="padding-left: 15px;">
+      <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="20">
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:top; padding-top: 15px;">
+      <strong>College of Communication Engineering, Jilin University</strong><br>
+      Bachelor in Automation, Ranked 5th/149<br>
+      Sep. 2016 – Jun. 2020
+    </td>
+    <td style="padding-left: 15px; padding-top: 15px;">
+      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" height="20">
+    </td>
+  </tr>
+</table>
 
 ---
 
