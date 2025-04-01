@@ -23,27 +23,26 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 <table>
   <tr>
-    <td style="vertical-align:top;">
+    <td style="vertical-align:top; width: 70%;"> <!-- 增加左边列宽度 -->
       <strong>College of Artificial Intelligence, Nankai University</strong><br>
       Integrated Master’s and Ph.D. Program in Control Science & Engineering<br>
       Sep. 2020 – Present
     </td>
-    <td style="padding-left: 20px;">
-      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="20%">
+    <td style="padding-left: 20px; width: 30%;"> <!-- 缩小右边列宽度 -->
+      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="40%">
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; padding-top: 20px;">
+    <td style="vertical-align:top; padding-top: 20px; width: 70%;"> <!-- 增加左边列宽度 -->
       <strong>College of Communication Engineering, Jilin University</strong><br>
       Bachelor in Automation, Ranked 5th/149<br>
       Sep. 2016 – Jun. 2020
     </td>
-    <td style="padding-left: 20px; padding-top: 20px;">
-      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="20%">
+    <td style="padding-left: 20px; padding-top: 20px; width: 30%;"> <!-- 缩小右边列宽度 -->
+      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="40%">
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🔬 Project Experience
