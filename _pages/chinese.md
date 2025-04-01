@@ -21,7 +21,7 @@ author_profile: true
 
 ## 🎓 教育背景
 
-<table style="border: none;">
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td style="vertical-align:top; width: 50%; font-size: 16px;">
       <strong>南开大学 人工智能学院</strong><br>
