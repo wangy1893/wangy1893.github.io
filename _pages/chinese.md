@@ -21,24 +21,24 @@ author_profile: true
 
 ## 🎓 教育背景
 
-<table>
+<table style="border: none;">
   <tr>
-    <td style="vertical-align:top; width: 70%; font-size: 16px;">
+    <td style="vertical-align:top; width: 50%; font-size: 16px;">
       <strong>南开大学 人工智能学院</strong><br>
       控制科学与工程 硕博连读<br>
       2020年9月 – 至今
     </td>
-    <td style="padding-left: 20px; width: 30%; text-align: center;">
+    <td style="padding-left: 20px; width: 50%; text-align: center;">
       <img src="/images/nankai-logo.png" alt="南开大学Logo" width="60%">
     </td>
   </tr>
   <tr>
-    <td style="vertical-align:top; padding-top: 20px; width: 70%; font-size: 16px;">
+    <td style="vertical-align:top; padding-top: 20px; width: 50%; font-size: 16px;">
       <strong>吉林大学 通信工程学院</strong><br>
       自动化专业 本科，年级排名：5/149<br>
       2016年9月 – 2020年6月
     </td>
-    <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center;">
+    <td style="padding-left: 20px; padding-top: 20px; width: 50%; text-align: center;">
       <img src="/images/jilinUnivers-logo.png" alt="吉林大学Logo" width="60%">
     </td>
   </tr>
