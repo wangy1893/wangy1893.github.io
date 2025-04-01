@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" width="20%">
+  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" width="25%">
 </p>
 
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
