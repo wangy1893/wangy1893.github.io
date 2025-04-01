@@ -12,4 +12,4 @@ I'm a Ph.D. candidate from FAIR Lab (Flight Autonomy & Intelligent Robots Labora
 
 My research interests include robotics, aerial transportation systems, motion control, and planning.
 
-My detailed Curriculum Vitae can be downloaded in [CV](/CV/english-resume.pdf).
+My detailed Curriculum Vitae can be downloaded in [CV](/CV/Hai Yu-CV.pdf).
