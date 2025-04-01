@@ -24,7 +24,7 @@ main:
     url: /chinese/   
 
   - title: "Leave a Message/留言板"
-  url: /comments/
+    url: /comments/
 
   # - title: "Portfolio"
   #   url: /portfolio/
