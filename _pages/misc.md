@@ -11,7 +11,7 @@ redirect_from:
 <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>
 <a href="https://lbbnk.github.io/">Bingbing Liu</a>
 
-### Other Experience
+## Other Experience
 
 <div style="display: flex; flex-direction: column; gap: 24px;">
 
