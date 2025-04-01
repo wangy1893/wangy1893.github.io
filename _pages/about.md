@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" height="100">
+  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" height="8">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="80">
+  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="8">
 </p>
 
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
@@ -32,7 +32,7 @@ My research interests include **robotics**, **aerial transportation systems**, *
   *Sep. 2016 – Jun. 2020*
 
 <p align="center">
-  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="80">
+  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="8">
 </p>
 
 ---
