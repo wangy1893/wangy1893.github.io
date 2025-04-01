@@ -22,12 +22,12 @@ redirect_from:
 - Volunteer at **World Intelligence Expo 2024**, interviewed by **Zhihu Tianjin** regarding the aerial operations system and research applications.
 
 <div style="margin-left: 40px;">
-  <img src="/images/HaiYu-ZhihuInterview.png" alt="tianjinnews" width="300" height="200">
+  <img src="/images/HaiYu-ZhihuInterview.png" alt="WIE2024" width="300" height="200">
 </div>
 
 
--Presented research on anti-swing control of variable-length cable-suspended aerial transportation systems  
+- Presented research on anti-swing control of variable-length cable-suspended aerial transportation systems  
   at the **International Conference on Guidance, Navigation and Control (ICGNC 2022)**, Harbin, China.
 <div style="margin-left: 40px;">
-  <img src="/images/HaiYu-ICGNC-Oral.png" alt="tianjinnews" width="300" height="200">
+  <img src="/images/HaiYu-ICGNC-Oral.png" alt="ICGNC2022" width="300" height="200">
 </div>
