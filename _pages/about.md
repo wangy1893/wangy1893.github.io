@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" height="20">
+  <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" height="15">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="20">
+  <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="15">
 </p>
 
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
@@ -31,7 +31,7 @@ My research interests include **robotics**, **aerial transportation systems**, *
       Sep. 2020 – Present
     </td>
     <td style="padding-left: 15px;">
-      <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="20">
+      <img src="/images/nankai-logo.png" alt="Nankai University Logo" height="15">
     </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ My research interests include **robotics**, **aerial transportation systems**, *
       Sep. 2016 – Jun. 2020
     </td>
     <td style="padding-left: 15px; padding-top: 15px;">
-      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" height="20">
+      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" height="15">
     </td>
   </tr>
 </table>
@@ -93,4 +93,3 @@ My research interests include **robotics**, **aerial transportation systems**, *
 
 - Python, MATLAB, ROS  
 - Control algorithm design, motion planning  
-- Familiar with C++, Gazebo, and embedded systems
