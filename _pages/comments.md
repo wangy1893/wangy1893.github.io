@@ -22,7 +22,7 @@ Feel free to leave a message below. You can log in with your GitHub account to c
         data-emit-metadata="0"
         data-input-position="bottom"
         data-theme="preferred_color_scheme"
-        data-lang="zh-CN"
+        data-lang="en"
         crossorigin="anonymous"
         async>
 </script>
