@@ -26,5 +26,5 @@ redirect_from:
 
 - Presented research on anti-swing control of variable-length cable-suspended aerial transportation systems at the **International Conference on Guidance, Navigation and Control (ICGNC 2022)**, Harbin, China.
 <div style="margin-left: 40px;">
-  <img src="/images/HaiYu-ICGNC-Oral.png" alt="ICGNC2022" width="300" height="200">
+  <img src="/images/HaiYu-ICGNC-Oral.jpg" alt="ICGNC2022" width="300" height="200">
 </div>
