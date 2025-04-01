@@ -29,7 +29,7 @@ My research interests include **robotics**, **aerial transportation systems**, *
       Sep. 2020 – Present
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center;"> <!-- 图标居中 -->
-      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="40%">
+      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
     </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ My research interests include **robotics**, **aerial transportation systems**, *
       Sep. 2016 – Jun. 2020
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center;"> <!-- 图标居中 -->
-      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="40%">
+      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="60%">
     </td>
   </tr>
 </table>
