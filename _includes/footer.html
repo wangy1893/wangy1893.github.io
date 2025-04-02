@@ -1,31 +1,32 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}">
-        <i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> 
-        {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a>
-      </li>
-    {% endif %}
-  </ul>
-</div>
-{% endif %}
+<!-- ✅ 页脚整体横向布局：左侧全部内容，右侧小地球 -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
 
-<!-- ✅ 页脚左右排布：左文字 + 右地球图 -->
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; margin-top: 10px;">
-  <!-- 左侧：版权信息 -->
+  <!-- 🔹 左侧 Footer 内容块 -->
   <div>
+    {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+    <div class="page__footer-follow">
+      <ul class="social-icons">
+        {% if site.data.ui-text[site.locale].follow_label %}
+          <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+        {% endif %}
+        {% if site.author.github %}
+          <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+        {% endif %}
+        {% if site.author.bitbucket %}
+          <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+        {% endif %}
+        {% if site.atom_feed.hide != true %}
+          <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}">
+            <i class="fa fa-fw fa-rss-square" aria-hidden="true"></i>
+            {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+          </a></li>
+        {% endif %}
+      </ul>
+    </div>
+    {% endif %}
+
     <div class="page__footer-copyright">
       &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }},
       {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }}
@@ -34,15 +35,19 @@
       a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
       Site last updated {{ "now" | date: '%Y-%m-%d' }}
     </div>
+
     <div style="color:#bbb;font-size:0.8rem;">
       TOTAL VIEWS: <span id="busuanzi_value_site_pv"></span>
     </div>
   </div>
 
-  <!-- 右侧：缩小地球图 -->
-  <div style="width: 100px; height: 100px; overflow: hidden; transform: scale(0.4); transform-origin: center;">
-    <script type="text/javascript" id="clstr_globe"
-      src="//clustrmaps.com/globe.js?d=s4FOtRt-xxeAAs-Catbe6QaM8V0X-j73u9t1wgW22Zo">
-    </script>
+  <!-- 🔹 右侧：地球访问图 -->
+  <div style="margin-left: 20px; margin-top: 4px;">
+    <div style="width: 80px; height: 80px; overflow: hidden; transform: scale(0.4); transform-origin: top right;">
+      <script type="text/javascript" id="clstr_globe"
+        src="//clustrmaps.com/globe.js?d=s4FOtRt-xxeAAs-Catbe6QaM8V0X-j73u9t1wgW22Zo">
+      </script>
+    </div>
   </div>
+
 </div>
