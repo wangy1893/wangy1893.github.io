@@ -83,10 +83,3 @@ My research interests include **robotics**, **aerial transportation systems**, *
 - Collaborative Control for Aerial Transportation..., *IEEE TII*, 2025  
 
 ➡️ [Full publication list »](/publications)
-
----
-
-## 🛠 Skills
-
-- Python, MATLAB, ROS  
-- Control algorithm design, motion planning  
