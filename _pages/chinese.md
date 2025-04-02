@@ -85,10 +85,3 @@ author_profile: true
 - 《双四旋翼协同吊运控制方法》，*IEEE TII*, 2025  
 
 ➡️ [点击查看完整论文列表 »](/publications)
-
----
-
-## 🛠 技能特长
-
-- 熟练使用 Python、MATLAB、ROS  
-- 擅长控制器设计、轨迹规划与系统建模  
