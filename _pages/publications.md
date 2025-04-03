@@ -34,7 +34,7 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
   </div>
   <div class="info-container">
     <p class="paper-title">Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>, Tengfei Pei, Jianda Han, Yongchun Fang, Xiao Liang* </p>
+    <p class="authors"> <b>Hai Yu#</b>, <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>, Tengfei Pei, <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
     <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 5955-5965, 2025 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10620439">Paper Page</a>] </p>
   </div>
@@ -96,7 +96,7 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
   </div>
   <div class="info-container">
     <p class="paper-title">Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, Yang Wang, <a href="https://lbbnk.github.io/">Bingbing Liu</a>, Jianda Han, Yongchun Fang, Xiao Liang* </p>
+    <p class="authors"> <b>Hai Yu#</b>, <a href="https://wangy1893.github.io/">Yang Wang</a>, <a href="https://lbbnk.github.io/">Bingbing Liu</a>, Jianda Han, Yongchun Fang, Xiao Liang* </p>
     <p class="journal"> <b>IEEE International Conference on Real-time Computing and Robotics (RCAR)</b>, 2024 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
   </div>
