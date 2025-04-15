@@ -13,7 +13,7 @@ redirect_from:
 
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
 
-My research interests include **robotics**, **aerial transportation systems**, **motion control**, and **planning**.
+My research interests include **robotics**, **dual-arm aerial manipulator systems**, **motion control**, and **planning**.
 
 📄 [Download CV (PDF)](/CV/HaiYu-CV.pdf)   🌐 [点击此处访问中文版](/chinese)
 
@@ -26,7 +26,7 @@ My research interests include **robotics**, **aerial transportation systems**, *
     <td style="vertical-align:top; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
       <strong>College of Artificial Intelligence, Nankai University</strong><br>
       Integrated Master’s and Ph.D. Program in Control Science & Engineering<br>
-      Sep. 2020 – Present
+      Sep. 2021 – Present
     </td>
     <td style="padding-left: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
       <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
@@ -34,13 +34,12 @@ My research interests include **robotics**, **aerial transportation systems**, *
   </tr>
   <tr>
     <td style="vertical-align:top; padding-top: 20px; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
-      <strong>College of Communication Engineering, Jilin University</strong><br>
+      <strong>College of Artificial Intelligence, Nankai University</strong><br>
       Bachelor in Automation, Ranked 5th/149<br>
-      Sep. 2016 – Jun. 2020
+      Sep. 2017 – Jun. 2021
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="60%">
-    </td>
+      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
   </tr>
 </table>
 ---
@@ -53,11 +52,11 @@ My research interests include **robotics**, **aerial transportation systems**, *
   – Built experimental platform and tested control strategies  
   – Investigated control algorithms for underactuated aerial transportation
 
-- **Planning and Control for Aerial Transportation Robots**  
+- **Planning and Control for Dual-Arm Aerial Manipulator Robots**  
   *Doctoral Research Topic*  
-  *Sep. 2020 – Jun. 2026*  
+  *Sep. 2021 – Jun. 2027*  
   – Designed trajectory tracking controller  
-  – Developed vision-based autonomy and blade fault-tolerant control
+  – Developed RF-based manipulability
 
 ---
 
