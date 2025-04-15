@@ -34,12 +34,13 @@ My research interests include **robotics**, **dual-arm aerial manipulator system
   </tr>
   <tr>
     <td style="vertical-align:top; padding-top: 20px; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
-      <strong>College of Artificial Intelligence, Nankai University</strong><br>
+      <strong>College of Communication Engineering, Jilin University</strong><br>
       Bachelor in Automation, Ranked 5th/149<br>
-      Sep. 2017 – Jun. 2021
+      Sep. 2016 – Jun. 2020
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
-      <img src="/images/nankai-logo.png" alt="Nankai University Logo" width="60%">
+      <img src="/images/jilinUnivers-logo.png" alt="Jilin University Logo" width="60%">
+    </td>
   </tr>
 </table>
 ---
