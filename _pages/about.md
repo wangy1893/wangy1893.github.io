@@ -13,7 +13,7 @@ redirect_from:
 
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
 
-My research interests include **robotics**, **dual-arm aerial manipulator systems**, **motion control**, and **planning**.
+My research interests include **Robotics**, **Dual-Arm Aerial Manipulators**, **Motion Control**, and **Reinforcement Learning**.
 
 📄 [Download CV (PDF)](/CV/HaiYu-CV.pdf)   🌐 [点击此处访问中文版](/chinese)
 
