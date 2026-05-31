@@ -13,7 +13,7 @@ redirect_from:
 
 I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm).
 
-My research interests include **Robotics**, **Dual-Arm Aerial Manipulators**, **Motion Control**, and **Reinforcement Learning**.
+My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***, ***Motion Control***, and ***Reinforcement Learning***.
 
 📄 [Download CV (PDF)](/CV/HaiYu-CV.pdf)   🌐 [点击此处访问中文版](/chinese)
 
@@ -47,17 +47,21 @@ My research interests include **Robotics**, **Dual-Arm Aerial Manipulators**, **
 
 ## 🔬 Project Experience
 
-- **Control Methods for Precise Release of Cargo with Dual Underactuated Aerial Systems**  
-  *Principal Investigator, First NSFC Basic Research Program for PhD Students*  
-  *May 2024 – Dec. 2025*  
-  – Built experimental platform and tested control strategies  
-  – Investigated control algorithms for underactuated aerial transportation
+- **Precise Cargo Delivery to Moving Platforms Using Aerial Transportation Systems**  
+  *NSFC General Program*  
+  *Jan. 2023 – Dec. 2026*
 
-- **Planning and Control for Dual-Arm Aerial Manipulator Robots**  
+- **Multi-Sensor Fusion-Based Air–Ground Multimodal Robotic System and Key Technologies for Underground Space Exploration**  
+  *NSFC Key Program*  
+  *Jan. 2023 – Dec. 2027*
+
+- **Coordination and Cooperation Methods for Multiple UAVs and Human–Multi-UAV Systems**  
+  *NSFC Major Research Plan Key Project on Coexisting-Cooperative-Cognitive Robots*  
+  *Jan. 2019 – Dec. 2022*  
+
+- **RL-Based Planning and Control for Dual-Arm Aerial Manipulator Robots**  
   *Doctoral Research Topic*  
   *Sep. 2021 – Jun. 2027*  
-  – Designed trajectory tracking controller  
-  – Developed RF-based manipulability
 
 ---
 
