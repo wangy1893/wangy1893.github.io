@@ -35,7 +35,7 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
   <tr>
     <td style="vertical-align:top; padding-top: 20px; width: 70%; font-size: 16px; border: none;"> <!-- 增加字体大小 -->
       <strong>College of Communication Engineering, Nankai University</strong><br>
-      Bachelor in Automation, Ranked 2th/42<br>
+      Bachelor in Automation, Ranked 2nd/42<br>
       Sep. 2017 – Jun. 2021
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 30%; text-align: center; border: none;"> <!-- 图标居中 -->
