@@ -74,6 +74,7 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 - First Prize, North China Five Provinces, Municipalities and Autonomous Regions College Student Robot Competition, 2024
 - First Prize, Tianjin Intellectual Property Innovation, Entrepreneurship, Invention and Design Competition, 2024
 - First Place in North China Division, Image Track, Future Cup College AI Challenge, 2020
+
 ---
 
 ## 📚 Selected Publications
