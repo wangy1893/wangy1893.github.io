@@ -47,6 +47,10 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 
 ## 🔬 Project Experience
 
+- **RL-Based Planning and Control for Dual-Arm Aerial Manipulator Robots**  
+  *Doctoral Research Topic*  
+  *Sep. 2023 – Jun. 2027*
+
 - **Precise Cargo Delivery to Moving Platforms Using Aerial Transportation Systems**  
   *NSFC General Program*  
   *Jan. 2023 – Dec. 2026*
@@ -59,9 +63,6 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
   *NSFC Major Research Plan Key Project on Coexisting-Cooperative-Cognitive Robots*  
   *Jan. 2019 – Dec. 2022*  
 
-- **RL-Based Planning and Control for Dual-Arm Aerial Manipulator Robots**  
-  *Doctoral Research Topic*  
-  *Sep. 2023 – Jun. 2027*  
 
 ---
 
