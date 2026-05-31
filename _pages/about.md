@@ -61,7 +61,7 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 
 - **RL-Based Planning and Control for Dual-Arm Aerial Manipulator Robots**  
   *Doctoral Research Topic*  
-  *Sep. 2021 – Jun. 2027*  
+  *Sep. 2023 – Jun. 2027*  
 
 ---
 
