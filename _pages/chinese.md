@@ -14,7 +14,7 @@ author_profile: true
 我的研究兴趣包括**机器人学**、**飞行双臂系统**、**运动控制**与**强化学习**。
 
 
-📄 [下载我的简历 (PDF)](/CV/于海-中文简历.pdf)         🌐 [English Version](https://u-hai.github.io/)
+📄 [下载我的简历 (PDF)](/CV/于海-中文简历.pdf)         🌐 [English Version](https://wangy1893.github.io/)
 
 
 ---
