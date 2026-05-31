@@ -67,6 +67,7 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 
 ## 🏆 Awards and Honors
 
+- First-Class Gongneng Scholarship for Graduate Students, Nankai University, 2022
 - Special Scholarship for Graduate Students, Nankai University, 2022, 2025
 - Outstanding Student Party Member, Nankai University, 2025, 2026
 - Outstanding Graduate Student, Nankai University, 2022
