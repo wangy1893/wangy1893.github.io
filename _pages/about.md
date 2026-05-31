@@ -80,10 +80,13 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 
 ## 📚 Selected Publications
 
-- Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable, *IEEE TASE*, 2025  
-- Fault-Tolerant Control for Multirotor Aerial Transportation Systems With Blade Damage, *IEEE TIE*, 2024  
-- Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform, *IEEE TII*, 2024  
-- Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect, *IEEE TFS*, 2025  
-- Collaborative Control for Aerial Transportation of Cargo With Dual Quadrotors, *IEEE TII*, 2025  
+- Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints, *IEEE TMECH*, 2024
+- Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass, *IEEE TASE*, 2024
+- Neural Network-Based Adaptive Event-Triggered Control for Dual-Arm Unmanned Aerial Manipulator Systems， *IFAC*， 2026
+- Adaptive RISE Control for Dual-Arm Unmanned Aerial Manipulator Systems With Deep Neural Networks, *arXiv*, 2025
+- Super-Twisting Sliding Mode based Nonlinear Control for Dual-Arm Unmanned Aerial Manipulator Systems， *ICUS*， 2023
+- Nonlinear Control for Dual-Rope Aerial Transportation System by Tilt-Rotor， *ROBIO*， 2021
+- Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable， *RCAR*， 2024
+- Cooperative Control for Underactuated Aerial Transportation Systems via the Energy-Based Analysis, *CTA*, 2020
 
 ➡️ [Full publication list »](/publications)
