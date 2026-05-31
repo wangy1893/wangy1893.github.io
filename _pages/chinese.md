@@ -78,10 +78,13 @@ author_profile: true
 
 ## 📚 代表性论文
 
-- 《基于视觉伺服的变绳长吊运系统防摆控制》，*IEEE TASE*, 2025  
-- 《多旋翼运输系统桨叶故障容错控制》，*IEEE TIE*, 2024  
-- 《空中运输系统移动平台自主着陆轨迹跟踪控制》，*IEEE TII*, 2024  
-- 《考虑钩挂效应的模糊防摆控制》，*IEEE TFS*, 2025  
-- 《双四旋翼协同吊运控制方法》，*IEEE TII*, 2025  
+- Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints, *IEEE TMECH*, 2026
+- Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass, *IEEE TASE*, 2024
+- Neural Network-Based Adaptive Event-Triggered Control for Dual-Arm Unmanned Aerial Manipulator Systems, *IFAC*, 2026
+- Adaptive RISE Control for Dual-Arm Unmanned Aerial Manipulator Systems With Deep Neural Networks, *arXiv*, 2025
+- Super-Twisting Sliding Mode based Nonlinear Control for Dual-Arm Unmanned Aerial Manipulator Systems, *ICUS*, 2023
+- Nonlinear Control for Dual-Rope Aerial Transportation System by Tilt-Rotor, *ROBIO*, 2021
+- Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable, *RCAR*, 2024
+- 基于能量分析的欠驱动飞行吊运系统协同控制, *控制理论与应用*, 2020 
 
 ➡️ [点击查看完整论文列表 »](/publications)
