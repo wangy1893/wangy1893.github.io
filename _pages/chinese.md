@@ -11,7 +11,7 @@ author_profile: true
 
 我是南开大学人工智能学院**FAIR实验室**（飞行自主与智能机器人实验室）的博士生，导师是[梁潇教授](https://ai.nankai.edu.cn/info/1034/4844.htm)。
 
-我的研究兴趣包括**机器人学**、**空中运输系统**、**运动控制**与**规划方法**。
+我的研究兴趣包括**机器人学**、**飞行双臂系统**、**运动控制**与**强化学习**。
 
 
 📄 [下载我的简历 (PDF)](/CV/于海-中文简历.pdf)         🌐 [English Version](https://u-hai.github.io/)
@@ -26,7 +26,7 @@ author_profile: true
     <td style="vertical-align:top; width: 60%; font-size: 18px; border: none;">
       <strong>南开大学 人工智能学院</strong><br>
       控制科学与工程 硕博连读<br>
-      2020年9月 – 至今
+      2021年9月 – 至今
     </td>
     <td style="padding-left: 20px; width: 40%; text-align: center; border: none;">
       <img src="/images/nankai-logo.png" alt="南开大学Logo" width="40%">
@@ -34,12 +34,12 @@ author_profile: true
   </tr>
   <tr>
     <td style="vertical-align:top; padding-top: 20px; width: 60%; font-size: 18px; border: none;">
-      <strong>吉林大学 通信工程学院</strong><br>
-      自动化专业 本科，年级排名：5/149<br>
-      2016年9月 – 2020年6月
+      <strong>南开大学 人工智能学院</strong><br>
+      自动化专业 本科，年级排名：2/42<br>
+      2017年9月 – 2021年6月
     </td>
     <td style="padding-left: 20px; padding-top: 20px; width: 40%; text-align: center; border: none;">
-      <img src="/images/jilinUnivers-logo.png" alt="吉林大学Logo" width="40%">
+      <img src="/images/nankai-logo.png" alt="南开大学Logo" width="40%">
     </td>
   </tr>
 </table>
