@@ -67,15 +67,13 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 
 ## 🏆 Awards and Honors
 
-- Young Talent Support Project (First Cohort of PhD Program), CAST (2025–2026)  
-- National Scholarship for Doctoral Students (2024)  
-- Nankai University Annual Figure Nomination Award (2024)  
-- Outstanding Student of Tianjin (2024)  
-- First-Class Gongneng Scholarship of Nankai University (3x, 2022–2024)  
-- 1<sup>st</sup> Prize, AI & Robotics Creative Design Competition (2024)  
-- 1<sup>st</sup> Prize, Tianjin IP Innovation & Entrepreneurship Competition (2024)  
-- 1<sup>st</sup> Prize, National Postdoctoral Forum on Indigenous Computing & AI (2022)
-
+Special Scholarship for Graduate Students, Nankai University, 2022, 2025
+Outstanding Student Party Member, Nankai University, 2025, 2026
+Outstanding Graduate Student, Nankai University, 2022
+Second-Class Gongneng Scholarship for Graduate Students, Nankai University, 2024
+First Prize, North China Five Provinces, Municipalities and Autonomous Regions College Student Robot Competition, 2024
+First Prize, Tianjin Intellectual Property Innovation, Entrepreneurship, Invention and Design Competition, 2024
+First Place in North China Division, Image Track, Future Cup College AI Challenge, 2020
 ---
 
 ## 📚 Selected Publications
