@@ -80,7 +80,7 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 
 ## 📚 Selected Publications
 
-- Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints, *IEEE TMECH*, 2024
+- Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints, *IEEE TMECH*, 2026
 - Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass, *IEEE TASE*, 2024
 - Neural Network-Based Adaptive Event-Triggered Control for Dual-Arm Unmanned Aerial Manipulator Systems， *IFAC*， 2026
 - Adaptive RISE Control for Dual-Arm Unmanned Aerial Manipulator Systems With Deep Neural Networks, *arXiv*, 2025
