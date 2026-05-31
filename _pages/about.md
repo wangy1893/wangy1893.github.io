@@ -82,11 +82,11 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 
 - Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints, *IEEE TMECH*, 2026
 - Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass, *IEEE TASE*, 2024
-- Neural Network-Based Adaptive Event-Triggered Control for Dual-Arm Unmanned Aerial Manipulator Systems， *IFAC*， 2026
+- Neural Network-Based Adaptive Event-Triggered Control for Dual-Arm Unmanned Aerial Manipulator Systems, *IFAC*, 2026
 - Adaptive RISE Control for Dual-Arm Unmanned Aerial Manipulator Systems With Deep Neural Networks, *arXiv*, 2025
-- Super-Twisting Sliding Mode based Nonlinear Control for Dual-Arm Unmanned Aerial Manipulator Systems， *ICUS*， 2023
-- Nonlinear Control for Dual-Rope Aerial Transportation System by Tilt-Rotor， *ROBIO*， 2021
-- Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable， *RCAR*， 2024
+- Super-Twisting Sliding Mode based Nonlinear Control for Dual-Arm Unmanned Aerial Manipulator Systems, *ICUS*, 2023
+- Nonlinear Control for Dual-Rope Aerial Transportation System by Tilt-Rotor, *ROBIO*, 2021
+- Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable, *RCAR*, 2024
 - Cooperative Control for Underactuated Aerial Transportation Systems via the Energy-Based Analysis, *CTA*, 2020
 
 ➡️ [Full publication list »](/publications)
