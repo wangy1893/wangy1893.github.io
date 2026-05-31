@@ -45,27 +45,6 @@ My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***
 </table>
 ---
 
-## 🔬 Project Experience
-
-- **RL-Based Planning and Control for Dual-Arm Aerial Manipulator Robots**  
-  *Doctoral Research Topic*  
-  *Sep. 2023 – Jun. 2027*
-
-- **Precise Cargo Delivery to Moving Platforms Using Aerial Transportation Systems**  
-  *NSFC General Program*  
-  *Jan. 2023 – Dec. 2026*
-
-- **Multi-Sensor Fusion-Based Air–Ground Multimodal Robotic System and Key Technologies for Underground Space Exploration**  
-  *NSFC Key Program*  
-  *Jan. 2023 – Dec. 2027*
-
-- **Coordination and Cooperation Methods for Multiple UAVs and Human–Multi-UAV Systems**  
-  *NSFC Major Research Plan Key Project on Coexisting-Cooperative-Cognitive Robots*  
-  *Jan. 2019 – Dec. 2022*  
-
-
----
-
 ## 🏆 Awards and Honors
 
 - First-Class Gongneng Scholarship for Graduate Students, Nankai University, 2022
