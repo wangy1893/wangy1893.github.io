@@ -54,7 +54,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="wy_2026_TASE.gif" alt="GIF Description" class="paper-image">
+    <img src="wy_2025_TASE.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass</p>
