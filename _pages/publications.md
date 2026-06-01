@@ -101,3 +101,15 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   </div>
 </div>
 
+<div class="paper-container">
+  <div class="media-container">
+    <img src="TII-22-2015-video.gif" alt="GIF Description" class="paper-image">
+  </div>
+  <div class="info-container">
+    <p class="paper-title">Cooperative control for underactuated aerial transportation systems via the energy-based analysis</p>
+    <p class="authors"> <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a>, <b>Yang Wang#</b>, Wei He, <a href="https://u-hai.github.io/">Ning Sun</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang*</a> </p>
+    <p class="journal"> <b>Control Theory & Applications</b>, vol. 37, no. 12, pp. 2473-2481, 2025 </p>
+    <p class="url"> [<a href="http://jcta.alljournals.ac.cn/cta_cn/ch/reader/view_abstract.aspx?journal_id=cta_cn&file_no=CCTA200152&html_url=cta_cn/article/html/CCTA200152">Paper Page</a>] </p>
+  </div>
+</div>
+
