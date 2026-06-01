@@ -46,7 +46,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   </div>
   <div class="info-container">
     <p class="paper-title">Neural Network-Based Adaptive Event-Triggered Control for Dual-Arm Unmanned Aerial Manipulator Systems</p>
-    <p class="authors"> <b>Yang Wang#</b>, Wei He, <a href="https://u-hai.github.io/">Yu Hai</a>, <a href="[https://ai.nankai.edu.cn/info/1032/2784.htm](https://robot.nankai.edu.cn/info/1018/1307.htm)">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="authors"> <b>Yang Wang#</b>, Wei He, <a href="https://u-hai.github.io/">Yu Hai</a>, <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
     <p class="journal"> <b>International Federation of Automatic Control</b>, 2026 </p>
     <p class="url"> [<a href="https://arxiv.org/abs/2604.17048">Paper Page</a>] </p>
   </div>
@@ -57,8 +57,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img src="TII-22-2015-video.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
-    <p class="paper-title">Adaptive Trajectory Tracking Control for the Quadrotor Aerial Transportation System Landing a Payload Onto the Mobile Platform</p>
-    <p class="authors"> <b>Hai Yu#</b>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a>, <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a> </p>
+    <p class="paper-title">Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass</p>
+    <p class="authors"> <b>Yang Wang#</b>, Wei He, <a href="https://u-hai.github.io/">Yu Hai</a>, <a href="[https://ai.nankai.edu.cn/info/1032/2784.htm](https://robot.nankai.edu.cn/info/1018/1307.htm)">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
     <p class="journal"> <b>IEEE Transactions on Industrial Informatics</b>, vol. 20, no. 1, pp. 23-37, 2024 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10068260">Paper Page</a>] </p>
   </div>
