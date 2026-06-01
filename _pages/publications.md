@@ -34,7 +34,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   </div>
   <div class="info-container">
     <p class="paper-title">Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints</p>
-    <p class="authors"> <b>Yang Wang#</b>, Yi Chai, <a href="https://u-hai.github.io/">Yu Hai</a>, <a href="[https://ai.nankai.edu.cn/info/1032/2784.htm](https://robot.nankai.edu.cn/info/1018/1307.htm)">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="authors"> <b>Yang Wang#</b>, Yi Chai, <a href="https://u-hai.github.io/">Yu Hai</a>, <a href="[https://ai.nankai.edu.cn/info/1032/2784.htm](https://robot.nankai.edu.cn/info/1018/1307.htm)">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
     <p class="journal"> <b>:IEEE/ASME Transactions on Mechatronics</b>, DOI: 10.1109/TMECH.2026.3652235, 2026 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/11397246">Paper Page</a>] </p>
   </div>
