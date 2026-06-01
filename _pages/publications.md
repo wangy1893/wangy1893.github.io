@@ -94,10 +94,10 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img src="2024-ICGNC-pic.png" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
-    <p class="paper-title">Enhanced-Coupling Based Nonlinear Control for Aerial Transportation Systems with Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, Shizhen Wu, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a> </p>
-    <p class="journal"> <b>International Conference on Guidance, Navigation and Control (ICGNC)</b>, 2022 </p>
-    <p class="url"> [<a href="https://link.springer.com/chapter/10.1007/978-981-19-6613-2_310">Paper Page</a>] </p>
+    <p class="paper-title">Nonlinear Control for Dual-Rope Aerial Transportation System by Tilt-Rotor</p>
+    <p class="authors"> <b>Yang Wang#</b>, <a href="https://u-hai.github.io/">Hai Yu</a>, <a href="https://robot.nankai.edu.cn/info/1018/1307.htm">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="journal"> <b>IEEE International Conference on Robotics and Biomimetics (ROBIO)</b>, 2021 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/9739540">Paper Page</a>] </p>
   </div>
 </div>
 
