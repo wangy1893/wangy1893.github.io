@@ -66,25 +66,13 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="2024-TFS-diagram.png" alt="GIF Description" class="paper-image">
+    <img src="23-TIE-2613-video.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
-    <p class="paper-title">Fuzzy-Based Anti-Swing Control for Variable-Length Cable-Suspended Aerial Transportation Systems Considering the Hook Effect</p>
-    <p class="authors"> <b>Hai Yu#</b>, Yi Chai, Zhichao Yang,  <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
-    <p class="journal"> <b>IEEE Transactions on Fuzzy Systems</b>, vol. 33, no. 2, pp. 621-630, 2025 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10737644">Paper Page</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <div class="media-container">
-    <img src="TII-23-5077-video.gif" alt="GIF Description" class="paper-image">
-  </div>
-  <div class="info-container">
-    <p class="paper-title">Collaborative Control for Aerial Transportation of Cargo With Dual Quadrotors</p>
-    <p class="authors"> Zhuang Zhang#, <b>Hai Yu#</b>, Huiying Ye,  <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
-    <p class="journal"> <b>IEEE Transactions on Industrial Informatics</b>, vol. 21, no. 1, pp. 752-761, 2025 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10704026">Paper Page</a>] </p>
+    <p class="paper-title">Adaptive RISE Control for Dual-Arm Unmanned Aerial Manipulator Systems with Deep Neural Networks</p>
+    <p class="authors"> <b>Yang Wang#</b>, <a href="https://u-hai.github.io/">Hai Yu</a>, Shizhen Wu, Zhichao Yang, <a href="https://robot.nankai.edu.cn/info/1018/1307.htm">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="journal"> <b>arXiv:2504.05985</b>, 2025 </p>
+    <p class="url"> [<a href="https://arxiv.org/abs/2504.05985">Paper Page</a>] </p>
   </div>
 </div>
 
