@@ -49,7 +49,7 @@ redirect_from:
     <div style="flex: 1;">
       <p style="margin: 0;">
         Presented research on super-twisting control of dual-arm aerial manipulator systems at the  
-        <strong>International Conference on Unmanned Systems (ICUS, 2023)/strong>, Hefei, China.
+        <strong>International Conference on Unmanned Systems (ICUS, 2023)</strong>, Hefei, China.
       </p>
     </div>
     <div>
