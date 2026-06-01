@@ -30,7 +30,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="TASE-2023-2664-video.gif" alt="GIF Description" class="paper-image">
+    <img src="wy_2026_TMECH.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints</p>
