@@ -53,7 +53,7 @@ redirect_from:
       </p>
     </div>
     <div>
-      <img src="/images/ICUS-people.jpg" alt="ICGNC Presentation" style="width: 300px; margin-left: 20px; border-radius: 8px;">
+      <img src="/images/ICUS-people.jpg" alt="ICUS Presentation" style="width: 300px; margin-left: 20px; border-radius: 8px;">
     </div>
   </div>
 
