@@ -58,7 +58,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   </div>
   <div class="info-container">
     <p class="paper-title">Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass</p>
-    <p class="authors"> <b>Yang Wang#</b>, Wei He, <a href="https://u-hai.github.io/">Yu Hai</a>, <a href="[https://ai.nankai.edu.cn/info/1032/2784.htm](https://robot.nankai.edu.cn/info/1018/1307.htm)">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="authors"> <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a>, <b>Yang Wang#</b>, Wei He, <a href="https://u-hai.github.io/">Yu Hai</a>, <a href="[https://ai.nankai.edu.cn/info/1032/2784.htm](https://robot.nankai.edu.cn/info/1018/1307.htm)">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a> </p>
     <p class="journal"> <b>IEEE Transactions on Industrial Informatics</b>, vol. 20, no. 1, pp. 23-37, 2024 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10068260">Paper Page</a>] </p>
   </div>
