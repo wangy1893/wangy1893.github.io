@@ -54,7 +54,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="TII-22-2015-video.gif" alt="GIF Description" class="paper-image">
+    <img src="wy_2026_TASE.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass</p>
@@ -66,7 +66,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="23-TIE-2613-video.gif" alt="GIF Description" class="paper-image">
+    <img src="wy_2026_CEP.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Adaptive RISE Control for Dual-Arm Unmanned Aerial Manipulator Systems with Deep Neural Networks</p>
