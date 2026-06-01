@@ -15,7 +15,7 @@ I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots La
 
 My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***, ***Motion Control***, and ***Reinforcement Learning***.
 
-📄 [Download CV (PDF)](/CV/HaiYu-CV.pdf)   🌐 [点击此处访问中文版](/chinese)
+📄 [Download CV (PDF)](/CV/YangWang_CV.pdf)   🌐 [点击此处访问中文版](/chinese)
 
 ---
 
