@@ -26,7 +26,7 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   </style>
 </head>
 
-## Journal Articles
+
 
 <div class="paper-container">
   <div class="media-container">
@@ -76,17 +76,16 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
   </div>
 </div>
 
-## Conference Proceedings
 
 <div class="paper-container">
   <div class="media-container">
     <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
-    <p class="paper-title">Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, <a href="https://wangy1893.github.io/">Yang Wang</a>, <a href="https://lbbnk.github.io/">Bingbing Liu</a>,  <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
-    <p class="journal"> <b>IEEE International Conference on Real-time Computing and Robotics (RCAR)</b>, 2024 </p>
-    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10671184">Paper Page</a>] </p>
+    <p class="paper-title">Super-Twisting Sliding Mode Based Nonlinear Control for Dual-Arm Unmanned Aerial Manipulator Systems</p>
+    <p class="authors"> <b>Yang Wang#</b>, Shizhen Wu, <a href="https://u-hai.github.io/">Hai Yu</a>, <a href="https://robot.nankai.edu.cn/info/1018/1307.htm">Jianda Han</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="journal"> <b>IEEE International Conference on Unmanned Systems (ICUS)</b>, 2023 </p>
+    <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10318229">Paper Page</a>] </p>
   </div>
 </div>
 
