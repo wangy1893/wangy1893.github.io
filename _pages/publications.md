@@ -42,7 +42,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="23-TIE-2613-video.gif" alt="GIF Description" class="paper-image">
+    <img src="wy_2026_IFAC.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Neural Network-Based Adaptive Event-Triggered Control for Dual-Arm Unmanned Aerial Manipulator Systems</p>
