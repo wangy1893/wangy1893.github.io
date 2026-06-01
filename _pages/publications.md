@@ -33,8 +33,8 @@ You can also find my articles on <a href="https://scholar.google.com/citations?u
     <img src="TASE-2023-2664-video.gif" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
-    <p class="paper-title">Visual Servoing-Based Anti-Swing Control of Cable-Suspended Aerial Transportation Systems With Variable-Length Cable</p>
-    <p class="authors"> <b>Hai Yu#</b>, <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>, Tengfei Pei, <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
+    <p class="paper-title">Learning-Based Adaptive Optimal Control for Dual-Arm Unmanned Aerial Manipulator Systems Catching Unknown Objects With Safety Constraints</p>
+    <p class="authors"> <b>Yang Wang#</b>, Yi Chai, <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>, Tengfei Pei, <a href="https://ai.nankai.edu.cn/info/1032/2784.htm">Jianda Han</a>, <a href="https://ai.nankai.edu.cn/info/1033/2797.htm">Yongchun Fang</a>, <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a> </p>
     <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 5955-5965, 2025 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/abstract/document/10620439">Paper Page</a>] </p>
   </div>
