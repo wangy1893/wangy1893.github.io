@@ -46,8 +46,8 @@ redirect_from:
   <div style="display: flex; align-items: center; padding: 16px; border-radius: 12px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
     <div style="flex: 1;">
       <p style="margin: 0;">
-        Presented research on anti-swing control of variable-length cable-suspended aerial transportation systems at the  
-        <strong>International Conference on Guidance, Navigation and Control (ICGNC 2022)</strong>, Harbin, China.
+        Presented research on super-twisting control of dual-arm aerial manipulator systems at the  
+        <strong>International Conference on Unmanned Systems (ICUS, 2023)/strong>, Hefei, China.
       </p>
     </div>
     <div>
