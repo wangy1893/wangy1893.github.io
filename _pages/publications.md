@@ -79,7 +79,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="2024-RCAR-pic.png" alt="GIF Description" class="paper-image">
+    <img src="icus-pic.png" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Super-Twisting Sliding Mode Based Nonlinear Control for Dual-Arm Unmanned Aerial Manipulator Systems</p>
@@ -91,7 +91,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="2024-ICGNC-pic.png" alt="GIF Description" class="paper-image">
+    <img src="robio-pic.png" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Nonlinear Control for Dual-Rope Aerial Transportation System by Tilt-Rotor</p>
