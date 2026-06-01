@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## Colleagues
+<a href="https://u-hai.github.io/">Hai Yu</a>
+
 <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>
 
 <a href="https://lbbnk.github.io/">Bingbing Liu</a>
