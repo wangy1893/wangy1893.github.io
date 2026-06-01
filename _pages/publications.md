@@ -103,7 +103,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
 
 <div class="paper-container">
   <div class="media-container">
-    <img src="TII-22-2015-video.gif" alt="GIF Description" class="paper-image">
+    <img src="cta-pic.png" alt="GIF Description" class="paper-image">
   </div>
   <div class="info-container">
     <p class="paper-title">Cooperative control for underactuated aerial transportation systems via the energy-based analysis</p>
