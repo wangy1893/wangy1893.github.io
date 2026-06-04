@@ -71,4 +71,4 @@ author_profile: true
 - Nonlinear Output Feedback Control for Double-Pendulum Aerial Transportation Systems with Variable-Length Cable, *RCAR*, 2024
 - 基于能量分析的欠驱动飞行吊运系统协同控制, *控制理论与应用*, 2020 
 
-➡️ [点击查看完整成果列表 »](/publications)
+➡️ [点击查看完整论文列表 »](/publications)
