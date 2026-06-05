@@ -58,7 +58,7 @@ You can also find my articles on my <a href="https://scholar.google.com/citation
   </div>
   <div class="info-container">
     <p class="paper-title">Observer-Based Nonlinear Control for Dual-Arm Aerial Manipulator Systems Suffering From Uncertain Center of Mass</p>
-    <p class="authors"> <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang*</a>, <b>Yang Wang#</b>, <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>, <a href="https://u-hai.github.io/">Hai Yu</a>, <a href="https://robot.nankai.edu.cn/info/1018/1307.htm">Jianda Han*</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang*</a> </p>
+    <p class="authors"> <a href="https://ai.nankai.edu.cn/info/1034/4844.htm">Xiao Liang (Tutor)</a>, <b>Yang Wang#</b>, <a href="https://cheungsiupaang.github.io/">Zhaopeng Zhang</a>, <a href="https://u-hai.github.io/">Hai Yu</a>, <a href="https://robot.nankai.edu.cn/info/1018/1307.htm">Jianda Han*</a>, <a href="https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244">Yongchun Fang*</a> </p>
     <p class="journal"> <b>IEEE Transactions on Automation Science and Engineering</b>, vol. 22, pp. 1984-1995, 2025 </p>
     <p class="url"> [<a href="https://ieeexplore.ieee.org/document/10466505">Paper Page</a>] </p>
   </div>
