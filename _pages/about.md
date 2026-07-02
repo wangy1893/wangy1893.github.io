@@ -11,7 +11,7 @@ redirect_from:
   <img src="/images/FAIR-logo.png" alt="FAIR Lab Logo" width="25%">
 </p>
 
-I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm), [Prof. Yongchun Fang](https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244), [Prof. Jianda Han](https://robot.nankai.edu.cn/info/1018/1307.htm).
+I'm a Ph.D. candidate from **FAIR Lab** (Flight Autonomy & Intelligent Robots Laboratory), College of Artificial Intelligence, Nankai University, supervised by [Prof. Liang Xiao](https://ai.nankai.edu.cn/info/1034/4844.htm), [Prof. Yongchun Fang](https://nankai.teacher.360eol.com/teacherBasic/preview?teacherId=10244), [Prof. Jianda Han](https://ai.nankai.edu.cn/info/1033/2796.htm).
 
 My research interests include ***Robotics***, ***Dual-Arm Aerial Manipulators***, ***Motion Control***, and ***Reinforcement Learning***.
 
